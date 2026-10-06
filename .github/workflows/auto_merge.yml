@@ -1,1 +1,33 @@
+name: Auto Merge M3U Playlists
 
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Tự động chạy gộp file mỗi 3 tiếng/lần
+  workflow_dispatch: # Cho phép anh bấm chạy thủ công bất cứ lúc nào trong tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  merge-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Merger Script
+        run: python merger.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add TheThao_Full.m3u
+          git commit -m "Auto update combined M3U list" || exit 0
+          git push
+          
