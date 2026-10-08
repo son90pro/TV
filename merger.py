@@ -1,7 +1,7 @@
 import urllib.request
 import re
 
-# Danh sách đầy đủ 8 nguồn M3U của anh Sơn
+# Danh sách đầy đủ 9 nguồn M3U của anh Sơn
 SOURCES = [
     {
         "name": "Khán Đài TV",
@@ -34,6 +34,10 @@ SOURCES = [
     {
         "name": "Tivi Vip 1",
         "url": "https://raw.githubusercontent.com/son90pro/TV/refs/heads/main/Tivi.m3u"
+    },
+    {
+        "name": "Sao Kê TV",
+        "url": "https://raw.githubusercontent.com/son90pro/Sao-Ke--TV/refs/heads/main/saoketv.m3u"
     }
 ]
 
@@ -82,4 +86,4 @@ def combine_m3u():
 
 if __name__ == "__main__":
     combine_m3u()
-  
+    
