@@ -1,8 +1,16 @@
 import urllib.request
 import re
 
-# Danh sách đầy đủ 9 nguồn M3U của anh Sơn
+# Danh sách 10 nguồn M3U của anh Sơn (Tivi Vip 1 đã đưa lên đầu)
 SOURCES = [
+    {
+        "name": "Tivi Vip 1",
+        "url": "https://raw.githubusercontent.com/son90pro/TV/refs/heads/main/Tivi.m3u"
+    },
+    {
+        "name": "Bia Ôm TV",
+        "url": "https://raw.githubusercontent.com/son90pro/Bia-Om-TV/refs/heads/main/biaom_live.m3u"
+    },
     {
         "name": "Khán Đài TV",
         "url": "https://raw.githubusercontent.com/son90pro/KhanDai-TV/refs/heads/main/playlist.m3u"
@@ -30,10 +38,6 @@ SOURCES = [
     {
         "name": "Bông lau TV",
         "url": "https://raw.githubusercontent.com/son90pro/Bong-Lau-TV/refs/heads/main/playlist.m3u"
-    },
-    {
-        "name": "Tivi Vip 1",
-        "url": "https://raw.githubusercontent.com/son90pro/TV/refs/heads/main/Tivi.m3u"
     },
     {
         "name": "Sao Kê TV",
