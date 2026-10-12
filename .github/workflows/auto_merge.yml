@@ -2,7 +2,7 @@ name: Auto Merge M3U Playlists
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Tự động chạy gộp file mỗi 3 tiếng/lần
+    - cron: '0 * * * *' # Tự động chạy gộp file mỗi 1 tiếng/lần
   workflow_dispatch: # Cho phép anh bấm chạy thủ công bất cứ lúc nào trong tab Actions
 
 permissions:
