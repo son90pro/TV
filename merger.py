@@ -5,7 +5,7 @@ import re
 SOURCES = [
     {
         "name": "Tivi Vip 1",
-        "url": "https://raw.githubusercontent.com/son90pro/TV/refs/heads/main/Tivi.m3u"
+        "url": "https://tv.vietanhtv.top/tivi/index.php?u=Son90_Pro&p=Vanson2505"
     },
     {
         "name": "Bia Ôm TV",
