@@ -1,6 +1,6 @@
 #EXTM3U
-#UPDATE 05:53⏱15/10 | VietAnhTV × SXTV | User: Son90_Pro
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="Tivi Vip 1" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png",VTV1 HD Update: 05:53⏱15/10
+#UPDATE 08:08⏱15/10 | VietAnhTV × SXTV | User: Son90_Pro
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="Tivi Vip 1" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png",VTV1 HD Update: 08:08⏱15/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Tivi Vip 1" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" , VTV2 HD
@@ -14,10 +14,10 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_56000
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Tivi Vip 1" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=110&expires=1792104821&token=4764cebe8d319d2b25f7c8aec638f8da
+https://tv.vietanhtv.top/tv360/tv360.php?id=110&expires=1792112906&token=28990e9c615613a8eb2b507359197fb6
 #EXTINF:-1 tvg-id="vtv6hd" group-title="Tivi Vip 1" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv6.png" , VTV6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=10043&expires=1792104821&token=f81b35c335c432c85fd1d5ebb2acdedc
+https://tv.vietanhtv.top/tv360/tv360.php?id=10043&expires=1792112906&token=6a4f590fbdc3341364d39f651240b817
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Tivi Vip 1" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" , VTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
@@ -41,125 +41,125 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htv1.png", HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=190&expires=1792104821&token=b0366bcd72c466b8c2d071d3b6d5ef53
+https://tv.vietanhtv.top/tv360/tv360.php?id=190&expires=1792112906&token=36a245110eae8e9645abb3dc04851791
 #EXTINF:-1 tvg-id="htv2hd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htv2.png", HTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=191&expires=1792104821&token=6aef7b251cc042ebc207a1b4cceef8a0
+https://tv.vietanhtv.top/tv360/tv360.php?id=191&expires=1792112906&token=7b85df7d9d9f271664f592a75af1c508
 #EXTINF:-1 tvg-id="htv3" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htv3.png", HTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=192&expires=1792104821&token=e5fa529a9fa1cad95e2c676e2bdc800d
+https://tv.vietanhtv.top/tv360/tv360.php?id=192&expires=1792112906&token=e2a23fd5380c94fe0cfd752723482f46
 #EXTINF:-1 tvg-id="htv4" group-title="Tivi Vip 1" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/20/15/1776673483732/71e6c03ac958_480_270.png", HTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9&expires=1792104821&token=7c19f9847e9b1b1c464351228fbdea21
+https://tv.vietanhtv.top/tv360/tv360.php?id=9&expires=1792112906&token=a2829c024c8573ce04f2e62840853925
 #EXTINF:-1 tvg-id="htv5" group-title="Tivi Vip 1" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/19/17/1776592892204/faf411a67b05_480_270.png", HTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=151&expires=1792104821&token=346193995481134274e6c4a332946342
+https://tv.vietanhtv.top/tv360/tv360.php?id=151&expires=1792112906&token=edd4a9a607f814ebfb5ec8241116f079
 #EXTINF:-1 tvg-id="htv7hd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htv7.png", HTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=193&expires=1792104821&token=e4e53a93c6f90977aef314d212bd6911
+https://tv.vietanhtv.top/tv360/tv360.php?id=193&expires=1792112906&token=c3395182ee8be198e2ac50ffea2fbbf9
 #EXTINF:-1 tvg-id="htv9hd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htv9.png", HTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=194&expires=1792104821&token=8679932472320f295a0906dc5c21971f
+https://tv.vietanhtv.top/tv360/tv360.php?id=194&expires=1792112906&token=4a552ace25f37ae0c34cde86ea23de40
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htvthethao.png", HTV Thể Thao HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=195&expires=1792104821&token=8b267a9471f4a0c6b0d2c102bd4a0ca3
+https://tv.vietanhtv.top/tv360/tv360.php?id=195&expires=1792112906&token=3e54a808f066bf0e442a7aa373e67665
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htvcthuanviet.png", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=13&expires=1792104821&token=551f6d554f88cf0f3e058b3508a8b589
+https://tv.vietanhtv.top/tv360/tv360.php?id=13&expires=1792112906&token=3cad0b80ae42c143b98ee0928a37c3e3
 #EXTINF:-1 tvg-id="htvcplushd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htvcplus.png", HTVC Plus HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=132&expires=1792104821&token=68d319d6ca1ca68e91b96360d96a2a05
+https://tv.vietanhtv.top/tv360/tv360.php?id=132&expires=1792112906&token=a3a2289944f0ebfde616040485d90e96
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htvcdulichcuocsong.png", HTVC Du Lịch HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=133&expires=1792104821&token=d31be605393edb61614f1612e027f793
+https://tv.vietanhtv.top/tv360/tv360.php?id=133&expires=1792112906&token=1e8bb961e5719016d11db249d38970bc
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htvccanhac.png", HTVC Ca Nhạc HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=14&expires=1792104821&token=ec3fb4767fa68b3567805466bda65acc
+https://tv.vietanhtv.top/tv360/tv360.php?id=14&expires=1792112906&token=74110466b77e6f2ae7259b8837a72db0
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="Tivi Vip 1" tvg-logo="https://img-ali1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png", HTVC Phim HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=15&expires=1792104821&token=3a66c5f6cea27ec43402cd524263b3af
+https://tv.vietanhtv.top/tv360/tv360.php?id=15&expires=1792112906&token=233adaace9a62f9134e22a510a3fe37d
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htvcgiadinh.png", HTVC Gia Đình HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=11&expires=1792104821&token=06a75ca2d3a0449986dbce72bc65585d
+https://tv.vietanhtv.top/tv360/tv360.php?id=11&expires=1792112906&token=b8449adad71f3b7143b7d73788631377
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/htvcphunu.png", HTVC Phụ Nữ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=12&expires=1792104821&token=e1bf0567f9fab777791b7b7148480bff
+https://tv.vietanhtv.top/tv360/tv360.php?id=12&expires=1792112906&token=6da1d9de43518b1f13baaa86c73ed36d
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/viegiaitri.png", ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 #EXTINF:-1 tvg-id="onphimviet" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/onphimviet.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=175&expires=1792104821&token=6eda7a5edfc5eef89083f4eb444c78b4
+https://tv.vietanhtv.top/tv360/tv360.php?id=175&expires=1792112906&token=51a3b76f1dedb67d50a69504beb0374a
 #EXTINF:-1 tvg-id="onmovies" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/onmovies.png", On Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=181&expires=1792104821&token=adfff098d196be7ec8d0002f7e4b39c4
+https://tv.vietanhtv.top/tv360/tv360.php?id=181&expires=1792112906&token=2a9495a53cd64b677c4cb74016bc792d
 #EXTINF:-1 tvg-id="onechannel" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/onechannel.png", ON E- Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=182&expires=1792104821&token=a2c3d3b82654fa1c1343b91aca7806cb
+https://tv.vietanhtv.top/tv360/tv360.php?id=182&expires=1792112906&token=dc7914b3a03ca4312a0f5d5c7ea5787d
 #EXTINF:-1 tvg-id="ono2tv" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/ono2tv.png", On O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=136&expires=1792104821&token=bd34b3258d5fe350dd9b20f76f19c6fc
+https://tv.vietanhtv.top/tv360/tv360.php?id=136&expires=1792112906&token=45c29cafc4f39d20706720feae2331b8
 #EXTINF:-1 tvg-id="onbibi" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/onbibi.png", On BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=178&expires=1792104821&token=1ba40eca13c020058a05a515096eac05
+https://tv.vietanhtv.top/tv360/tv360.php?id=178&expires=1792112906&token=62f4d55550fd310aba6be446f2647ba4
 #EXTINF:-1 tvg-id="oninfotv" group-title="Tivi Vip 1" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png", ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=189&expires=1792104821&token=6c6a03797893a5fb8f45286a1b5e20bb
+https://tv.vietanhtv.top/tv360/tv360.php?id=189&expires=1792112906&token=c8f86b86e17086a93b41b5aeb48186fd
 #EXTINF:-1 tvg-id="oncine" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/oncine.png", ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=176&expires=1792104821&token=6dede45b921d0098217720c7728de4e9
+https://tv.vietanhtv.top/tv360/tv360.php?id=176&expires=1792112906&token=adad0cb96dac6c6e2728ec27932b6a50
 #EXTINF:-1 tvg-id="onstyle" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/onstyle.png", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=184&expires=1792104821&token=c92ed6bb0bbeeb5f450e5e27e5913077
+https://tv.vietanhtv.top/tv360/tv360.php?id=184&expires=1792112906&token=694eb7b8bb5b56038afd1aabba28d35d
 #EXTINF:-1 tvg-id="onmusic" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/onmusic.png", On Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=185&expires=1792104821&token=0e3ec2885b3b457bf101d32796f8606f
+https://tv.vietanhtv.top/tv360/tv360.php?id=185&expires=1792112906&token=7d7fc55d2ffde74bebef7a25857b07bf
 #EXTINF:-1 tvg-id="ontrending" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/ontrendingtv.png", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=186&expires=1792104821&token=d0a7974b2562300667d51ce757484518
+https://tv.vietanhtv.top/tv360/tv360.php?id=186&expires=1792112906&token=d1790b537e054cf4ca74136c179f304a
 #EXTINF:-1 tvg-id="onviedramas" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/viedrama.png", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="Tivi Vip 1" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=187&expires=1792104821&token=88a50737caa730788e16495c9db2ab61
+https://tv.vietanhtv.top/tv360/tv360.php?id=187&expires=1792112906&token=1376f0c6fcc006d9b88dd9db203835f4
 #EXTINF:-1 tvg-id="onkids" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/onkids.png", On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=179&expires=1792104821&token=39c13a9eed393770752b33aa6920a3cf
+https://tv.vietanhtv.top/tv360/tv360.php?id=179&expires=1792112906&token=510052b24f110d5a9370dfb4543346a5
 #EXTINF:-1 tvg-id="onlife" group-title="Tivi Vip 1" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=188&expires=1792104821&token=ac3fa5c548ff56f9c8b138024dc2e917
+https://tv.vietanhtv.top/tv360/tv360.php?id=188&expires=1792112906&token=bfaa3a3378b8b65284cff33c6721de83
 #EXTINF:-1 tvg-id="onsports" group-title="Tivi Vip 1" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360173&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=173&expires=1792104821&token=4bccb9d634e9131d87d11d1331573e8d
+https://tv.vietanhtv.top/tv360/tv360.php?id=173&expires=1792112906&token=1aed2db8faa05208c200d8cd80f1cf0c
 #EXTINF:-1 tvg-id="onsportsplus" group-title="Tivi Vip 1" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON SPORTS+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360183&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=183&expires=1792104821&token=d39657d7a07afdc948a90957e122cbd9
+https://tv.vietanhtv.top/tv360/tv360.php?id=183&expires=1792112906&token=7ffbf24f601b67e8d2a8d9a32da98c70
 #EXTINF:-1 tvg-id="onfootball" group-title="Tivi Vip 1" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360174&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=174&expires=1792104821&token=ee30fa2691b6aaf9c787f566d978e6df
+https://tv.vietanhtv.top/tv360/tv360.php?id=174&expires=1792112906&token=764b88899e09b041b85c5409e83010a7
 #EXTINF:-1 tvg-id="onsportsnews" group-title="Tivi Vip 1" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360170&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=170&expires=1792104821&token=e5cb558ac5bab09214d19996efbfa254
+https://tv.vietanhtv.top/tv360/tv360.php?id=170&expires=1792112906&token=daa31a212ae8ee149a1d7b002ef11337
 #EXTINF:-1 tvg-id="ongolf" group-title="Tivi Vip 1" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=169&expires=1792104821&token=2bb6ef53f9ebddec74d7645afedf66bc
+https://tv.vietanhtv.top/tv360/tv360.php?id=169&expires=1792112906&token=668a627543f939e7a9149c96aec51be7
 #EXTINF:-1 tvg-id="sctv1hd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/sctv1.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -168,7 +168,7 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=169&expires=1792104821&token=2bb6ef5
 https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
 #EXTINF:-1 tvg-id="sctv2hd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/sctv2.png", SCTV2 HD - TODAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=201&expires=1792104821&token=1db7bba58cd2b656c45eeecf36eb29ee
+https://tv.vietanhtv.top/tv360/tv360.php?id=201&expires=1792112906&token=be6ec46d0355a8e29fd76f7aca33719b
 #EXTINF:-1 tvg-id="sctv3hd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/sctv3.png", SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/playlist_720p.m3u8
@@ -180,7 +180,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/playlist_720p.m3u8
 https://vietanhtv.id.vn/sctv/sctv5-a3cdb592/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=232&expires=1792104821&token=5f44cd42f7766195ff86af0c638cfd06
+https://tv.vietanhtv.top/tv360/tv360.php?id=232&expires=1792112906&token=c221e5f18d79855e4871e701f819d519
 #EXTINF:-1 tvg-id="sctv7hd" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/sctv7.png", SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/playlist_720p.m3u8
@@ -255,28 +255,28 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 tvg-id="antv-hd" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/thietyeu/antv.png", ANTV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=20&expires=1792104821&token=622e138f37c9b6f735ced122f73bcca8
+https://tv.vietanhtv.top/tv360/tv360.php?id=20&expires=1792112906&token=3374b37fdecbf0bf6a9ee885d31c0e25
 #EXTINF:-1 tvg-id="qpvn-hd" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/thietyeu/qpvn.png", QPVN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=19&expires=1792104821&token=858f5dce1c98f9b15ddadfe82b2c0a43
+https://tv.vietanhtv.top/tv360/tv360.php?id=19&expires=1792112906&token=e12f6d47ff6a9552e7bbb7e97899fc13
 #EXTINF:-1 tvg-id="thvl1hd" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong1.png", THVL1 | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=25&expires=1792104821&token=b3a4ea53b393be07b551110452f4287d
+https://tv.vietanhtv.top/tv360/tv360.php?id=25&expires=1792112906&token=a1ae2deccf0c5d80dd11ed054e69df14
 #EXTINF:-1 tvg-id="thvl2hd" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong2.png", THVL2 | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=26&expires=1792104821&token=c8100c43de6c5a332526b03c196533d2
+https://tv.vietanhtv.top/tv360/tv360.php?id=26&expires=1792112906&token=da5d4f27b654abb33ae473e3cf490f43
 #EXTINF:-1 tvg-id="thvl3hd" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong3.png", THVL3 | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=219&expires=1792104821&token=edef1249685a60135f320e0593645961
+https://tv.vietanhtv.top/tv360/tv360.php?id=219&expires=1792112906&token=588d2c289d544deac753edd947726d45
 #EXTINF:-1 tvg-id="thvl4hd" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong4.png", THVL4 | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=220&expires=1792104821&token=b18c3583c8dd6dda1ade7ef1dfd7d735
+https://tv.vietanhtv.top/tv360/tv360.php?id=220&expires=1792112906&token=ce9cfb0f0014df6f903eb8a8e4650889
 #EXTINF:-1 tvg-id="thvl5hd" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png", THVL5 | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=91&expires=1792104821&token=cddb00e521dd2c83012d3737e8df19a3
+https://tv.vietanhtv.top/tv360/tv360.php?id=91&expires=1792112906&token=4ac2bf346ee476c1964859f4e5c08bdd
 #EXTINF:-1 tvg-id="tayninhtv" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/tayninh.png", TN HD | TH Tây Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=72&expires=1792104821&token=b2477c3c9de21d90fdc6ee72fd46d1f9
+https://tv.vietanhtv.top/tv360/tv360.php?id=72&expires=1792112906&token=1baae8fdd8353b172e4cd1eef8a704f1
 #EXTINF:-1 tvg-id="angiang1" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang1.png", ATV1 HD | TH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-referer=https://angiangtv.vn/
@@ -297,22 +297,22 @@ https://liveh12.vtvprime.vn/hls/LTV1/04.m3u8
 https://liveh34.vtvprime.vn/hls/LAMDONG/03.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/camau.png", CTV HD | TH Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=46&expires=1792104821&token=94358c7746c0813d833ec4513218b81a
+https://tv.vietanhtv.top/tv360/tv360.php?id=46&expires=1792112906&token=2eafd46d5d7737d82e43ce550fda8f3a
 #EXTINF:-1 tvg-id="cantho1" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho1_new.png", Cần Thơ TV 1 | TH Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=47&expires=1792104821&token=877eb05214c2ac63cc35d9146cdf8e64
+https://tv.vietanhtv.top/tv360/tv360.php?id=47&expires=1792112906&token=891d5d812fe6ab28f75e12e2ee94b51e
 #EXTINF:-1 tvg-id="cantho2" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho2_new.png", Cần Thơ TV 2 | TH Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=61&expires=1792104821&token=66ec8768b4dfc8f4bbc4507d77ff0a75
+https://tv.vietanhtv.top/tv360/tv360.php?id=61&expires=1792112906&token=452f5876a5b6d03eb718014a7701f761
 #EXTINF:-1 tvg-id="cantho3" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho3_new.png", Cần Thơ TV 3 | TH Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=84&expires=1792104821&token=9d46c4d73918e47bbf6d60861dcbefdf
+https://tv.vietanhtv.top/tv360/tv360.php?id=84&expires=1792112906&token=3efc9eeaf74b8f9a7f13cdb6c8e4b563
 #EXTINF:-1 tvg-id="dongnai1" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai1.png", ĐNRTV1 HD | TH Đồng Nai
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=53&expires=1792104821&token=6a8cae0c6e792bf3a5a2f5e2e48080ac
+https://tv.vietanhtv.top/tv360/tv360.php?id=53&expires=1792112906&token=622b027954c68cca91ea91a209b71bae
 #EXTINF:-1 tvg-id="dongnai2" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai2.png", ĐNRTV2 HD | TH Đồng Nai
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=255&expires=1792104821&token=7bfa960f6e5d8cee0e788f4632200310
+https://tv.vietanhtv.top/tv360/tv360.php?id=255&expires=1792112906&token=2b91479d05c3b244e1d33d8b0d2539da
 #EXTINF:-1 tvg-id="dnrtv3" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai3.png", ĐNRTV3 HD | TH Đồng Nai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
@@ -339,10 +339,10 @@ https://tv.gialaitv.vn/tv.m3u8
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/khanhhoa.png", KTV HD | TH Khánh Hòa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=65&expires=1792104821&token=f2aeb09cc15e88b1838711895f419d48
+https://tv.vietanhtv.top/tv360/tv360.php?id=65&expires=1792112906&token=f124f7679b3287237efc9bef9dc64404
 #EXTINF:-1 tvg-id="khanhhoa1" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/khanhhoa1.png", KTV1 HD | TH Khánh Hòa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=76&expires=1792104821&token=0f0456c517246ce941b23d5d43e0829d
+https://tv.vietanhtv.top/tv360/tv360.php?id=76&expires=1792112906&token=e70d920fa4f44aa4d68b822ab6f4d52d
 #EXTINF:-1 tvg-id="quangngai" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangngai_1.png", QuangNgaiTV1 | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=quang-ngai-1
@@ -351,13 +351,13 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=quang-ngai-1
 https://tv.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
 #EXTINF:-1 tvg-id="quangtri" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangtri.png", QRTV HD | TH Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=83&expires=1792104821&token=b31003ab5ff605a703d62420371ab0ef
+https://tv.vietanhtv.top/tv360/tv360.php?id=83&expires=1792112906&token=9ee5f8227564fd613c49ee1d57e249e8
 #EXTINF:-1 tvg-id="hanoi1" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png", HanoiTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=33&expires=1792104821&token=a615c23addd0fba1b2caab4e7cf1f0e7
+https://tv.vietanhtv.top/tv360/tv360.php?id=33&expires=1792112906&token=c5c60ff1857133950f66cc5b5e7596a9
 #EXTINF:-1 tvg-id="hanoi2" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi2.png", HanoiTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=34&expires=1792104821&token=82881456b9531d922afd8d0e0d35c06b
+https://tv.vietanhtv.top/tv360/tv360.php?id=34&expires=1792112906&token=ed4237774282c3a1d542bac8234375fe
 #EXTINF:-1 tvg-id="bacninh" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/bacninh.png", BTN HD | TH Bắc Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=bac-giang-hd
@@ -366,7 +366,7 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=bac-giang-hd
 https://stream.thingnet.vn/live/smil:CRTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/dienbien.png", ĐTV | TH Điện Biên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=52&expires=1792104821&token=f4b03140cbea4f6118fcebf4eeb16ef2
+https://tv.vietanhtv.top/tv360/tv360.php?id=52&expires=1792112906&token=bf0d2b73fbbd5fd3d696b31438838177
 #EXTINF:-1 tvg-id="hatinh" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hatinh_new.png", BHTTV HD | TH Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
@@ -381,7 +381,7 @@ https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="laichau" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/laichau.png", LTV HD | TH Lai Châu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=68&expires=1792104821&token=ee1e2015b85f5d7ee9e93eef5ec91594
+https://tv.vietanhtv.top/tv360/tv360.php?id=68&expires=1792112906&token=72e2e5944d6234199a9903c2d8886384
 #EXTINF:-1 tvg-id="langson" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/diaphuong/langson.png", LSTV HD | TH Lạng Sơn
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
@@ -417,10 +417,10 @@ https://d4.dhcn.vn/hls/bth_th/720p/index.m3u8
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/hanoicab/hitv.png", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1792104821&token=cd3742568fd78e187199fe3e88c69f90
+https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1792112906&token=6b5193c0033cafc063f53e2ed43927e7
 #EXTINF:-1 tvg-id="youtv" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/hanoicab/youtv.png", You TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1792104821&token=0f09551735ea6324a9771f08ca8dbfdd
+https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1792112906&token=2ae82cde3564a2b9e8e78ed90ef54708
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -567,7 +567,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 https://vips-livecdn.fptplay.net/live/media/afn/live-hls-avc/afn-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/global/hgtv.png", HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=99&expires=1792104821&token=db75261c2230b2db4a0533801f70c939
+https://tv.vietanhtv.top/tv360/tv360.php?id=99&expires=1792112906&token=2e40f9de1340c2386b74ace916af06c7
 #EXTINF:-1 tvg-id="kbsworld" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/global/kbsworld.png", KBS World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
@@ -585,7 +585,7 @@ https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/global/history.png", History HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9856&expires=1792104821&token=7b51796850c663959073562ff08095c1
+https://tv.vietanhtv.top/tv360/tv360.php?id=9856&expires=1792112906&token=d21df3a8fa731eefecd74637840d0d9c
 #EXTINF:-1 tvg-id="dw" group-title="Tivi Vip 1" tvg-logo="https://freem3u.xyz/static/images/global/dw.png", DW - Deutsche Welle
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
@@ -740,91 +740,91 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/playlist.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus1&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=2554&expires=1792104821&token=5f188557461c18ab511872a3ffe7a27b
+https://tv.vietanhtv.top/tv360/tv360.php?id=2554&expires=1792112906&token=4ed1dc8fb941b992cbff2bde9e70ec8a
 #EXTINF:-1 tvg-id="tv360plus2" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus2.png", TV360+2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus2&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=1&expires=1792104821&token=4929d100e4158c034e4dcce2baa0c3ae
+https://tv.vietanhtv.top/tv360/tv360.php?id=1&expires=1792112906&token=b53a16d474fafe7dc2e3caedd6dd06d7
 #EXTINF:-1 tvg-id="tv360plus3" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus3.png", TV360+3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus3&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=148&expires=1792104821&token=d8eadbb91f08d26efff61d6bcfd4479c
+https://tv.vietanhtv.top/tv360/tv360.php?id=148&expires=1792112906&token=892278466433fde33900303e63e21497
 #EXTINF:-1 tvg-id="tv360plus4" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus4.png", TV360+4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus4&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1792104821&token=0f8a6ed8d3e4c0b8b133eb24ab0f14af
+https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1792112906&token=2214afa18e41942398ff51cdd83ebe3a
 #EXTINF:-1 tvg-id="tv360plus5" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus5.png", TV360+5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus5&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1792104821&token=3213a6b8c613b39b0bd985604e582e98
+https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1792112906&token=b566c27f8dc8a09e61e7188dcb88cc15
 #EXTINF:-1 tvg-id="tv360plus6" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus6.png", TV360+6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus6&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=9868&expires=1792104821&token=c882674222ca32c506db572740e26674
+https://tv.vietanhtv.top/tv360/tv360.php?id=9868&expires=1792112906&token=f6596d474250b39f35cb11030d38b884
 #EXTINF:-1 tvg-id="tv360plus7" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus7.png", TV360+7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus7&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=9869&expires=1792104821&token=1d39fc55265c4895c616c3cd73828e7b
+https://tv.vietanhtv.top/tv360/tv360.php?id=9869&expires=1792112906&token=df48dfeab99db41d325774249e9967f9
 #EXTINF:-1 tvg-id="tv360plus8" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus8.png", TV360+8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus8&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=9870&expires=1792104821&token=70fa25ecf1a87454a80122a21bffde74
+https://tv.vietanhtv.top/tv360/tv360.php?id=9870&expires=1792112906&token=63d03a1b7d89425565e1340d69d76a66
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9887&expires=1792104821&token=73893a0683a1c91b7e195ed3e53bdaee
+https://tv.vietanhtv.top/tv360/tv360.php?id=9887&expires=1792112906&token=51fc795fba3891238edc5feea3db5f2a
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus10.png", TV360+10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1792104821&token=76a5e9d00ffab5ab6e965abba6f115ba
+https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1792112906&token=828ff033762bb2a72b6aa3da22a659fd
 #EXTINF:-1 tvg-id="tv360plus11" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus11.png", TV360+11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9958&expires=1792104821&token=5168ed6eed08464820c60a8faced2eb8
+https://tv.vietanhtv.top/tv360/tv360.php?id=9958&expires=1792112906&token=bb3329264277041e39e981378064182e
 #EXTINF:-1 tvg-id="tv360plus12" group-title="Tivi Vip 1" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus12&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=10001&expires=1792104821&token=144f525e6f4e944c4c5462663671eeab
+https://tv.vietanhtv.top/tv360/tv360.php?id=10001&expires=1792112906&token=388d15f65790f21225e79be10b169acb
 #EXTINF:-1 tvg-id="tv360plus13" group-title="Tivi Vip 1" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png", TV360+13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus13&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=10022&expires=1792104821&token=fc7ad5189e2897b5091e0c4be0655280
+https://tv.vietanhtv.top/tv360/tv360.php?id=10022&expires=1792112906&token=4a9dfc1ce79ffc46a9e7dc6953e3ad0d
 #EXTINF:-1 tvg-id="tv360plus14" group-title="Tivi Vip 1" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png", TV360+14
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus14&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=10023&expires=1792104821&token=d9fa19ad320da6b943196a3f4c83fdbc
+https://tv.vietanhtv.top/tv360/tv360.php?id=10023&expires=1792112906&token=885c363880b97fbe0e71a9ed239c5d38
 #EXTINF:-1 tvg-id="tv360plus15" group-title="Tivi Vip 1" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png", TV360+15
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus15&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1792104821&token=9c66961d29722877488448206feffdcb
+https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1792112906&token=3633d8299336f82835dfad90908acdfa
 #EXTINF:-1 tvg-id="tv360phimviet" group-title="Tivi Vip 1" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png", Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9902&expires=1792104821&token=4d58ca192077a7fa397ae28dc983db32
+https://tv.vietanhtv.top/tv360/tv360.php?id=9902&expires=1792112906&token=349828bf13d7facda5b42ee13e7fd7c9
 #EXTINF:-1 tvg-id="tv360aumy" group-title="Tivi Vip 1" tvg-logo="https://img-ali1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9903&expires=1792104821&token=31a8a5cbee0100116d28554704950a27
+https://tv.vietanhtv.top/tv360/tv360.php?id=9903&expires=1792112906&token=e8f9a429324dc010dac1b7b7c1b8cdcf
 #EXTINF:-1 tvg-id="tv360hoathinh" group-title="Tivi Vip 1" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/19/1767185202351/540d7e229911_640_360.png", Hoạt hình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9934&expires=1792104821&token=1f39c6f2a0dd72a4b12fc68d24399b65
+https://tv.vietanhtv.top/tv360/tv360.php?id=9934&expires=1792112906&token=d39671ab920ca9a03279458340049432
 #EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -981,12 +981,6 @@ https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
 https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv485/manifest.mpd
-#EXTINF:-1 group-title="Tivi Vip 1", [VĐQG Colombia] Junior vs Deportivo Pereira - Trốc Tru (HD1)
-https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 group-title="Tivi Vip 1", [VĐQG Colombia] Junior vs Deportivo Pereira - Trốc Tru (HD2)
-https://tv.vietanhtv.top/chuoichientv/play.php?url=https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 group-title="Tivi Vip 1", [VĐQG Colombia] Junior vs Deportivo Pereira - Trốc Tru (FHD)
-https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 group-title="Tivi Vip 1", [Major League Soccer] Inter Miami vs New York City FC - Chuối Chao (HD1)
 https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 #EXTINF:-1 group-title="Tivi Vip 1", [Major League Soccer] Inter Miami vs New York City FC - Chuối Chao (HD2)
@@ -1003,25 +997,59 @@ https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.o
 https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 #EXTINF:-1 group-title="Tivi Vip 1", [Major League Soccer] Los Angeles Galaxy vs Portland Timbers - Chuối To (FHD)
 https://tv.vietanhtv.top/chuoichientv/play.php?url=https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
-#EXTINF:-1 tvg-id="4wyrn4h65263q86" tvg-name="CA Sarmiento vs River Plate" tvg-logo="https://static.sportsfeed.pro/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png" group-title="Tivi Vip 1",[Argentine Division 1] [05:00 15/10] [HT] CA Sarmiento 1-0 River Plate (Link 1 (Tencent))
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
-#EXTINF:-1 tvg-id="4wyrn4h65263q86" tvg-name="CA Sarmiento vs River Plate" tvg-logo="https://static.sportsfeed.pro/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png" group-title="Tivi Vip 1",[Argentine Division 1] [05:00 15/10] [HT] CA Sarmiento 1-0 River Plate (Link 2 (Alibaba))
-https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
-#EXTINF:-1 tvg-id="8yomo4h148l9q0j" tvg-name="Columbus Crew vs Charlotte FC" tvg-logo="https://static.sportsfeed.pro/football/team/b6d8f81e8454813b3e672b179e627d3a.png" group-title="Tivi Vip 1",[United States Major League Soccer] [06:30 15/10] [NS] Columbus Crew vs Charlotte FC (Link 1 (Tencent))
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
-#EXTINF:-1 tvg-id="8yomo4h148l9q0j" tvg-name="Columbus Crew vs Charlotte FC" tvg-logo="https://static.sportsfeed.pro/football/team/b6d8f81e8454813b3e672b179e627d3a.png" group-title="Tivi Vip 1",[United States Major League Soccer] [06:30 15/10] [NS] Columbus Crew vs Charlotte FC (Link 2 (Alibaba))
-https://playback.livetl004.com/live/69be75e0a0a45974afb67776.m3u8
-#EXTINF:-1 tvg-id="3glrw7hnp923qdy" tvg-name="Club Internacional de Futbol Miami vs New York City Football Club" tvg-logo="https://static.sportsfeed.pro/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Tivi Vip 1",[United States Major League Soccer] [06:30 15/10] [NS] Club Internacional de Futbol Miami vs New York City Football Club (Link 1 (Tencent))
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8
-#EXTINF:-1 tvg-id="3glrw7hnp923qdy" tvg-name="Club Internacional de Futbol Miami vs New York City Football Club" tvg-logo="https://static.sportsfeed.pro/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Tivi Vip 1",[United States Major League Soccer] [06:30 15/10] [NS] Club Internacional de Futbol Miami vs New York City Football Club (Link 2 (Alibaba))
-https://playback.livetl004.com/live/69cf6331585c5992182f4160.m3u8
-#EXTINF:-1 tvg-id="pxwrxlhlp943ryk" tvg-name="Fluminense RJ vs Palmeiras" tvg-logo="https://static.sportsfeed.pro/football/team/a6bce9adfac7903426bed2b253991a18.png" group-title="Tivi Vip 1",[CONMEBOL Copa Libertadores] [07:30 15/10] [NS] Fluminense RJ vs Palmeiras (Link 1 (Tencent))
+#EXTINF:-1 group-title="Tivi Vip 1", [Ngoại Hạng Mông Cổ] Hunters vs Khovd - Chuối Tây (HD1)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [Ngoại Hạng Mông Cổ] Hunters vs Khovd - Chuối Tây (HD2)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [Ngoại Hạng Mông Cổ] Hunters vs Khovd - Chuối Tây (FHD)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [Australian Championship] Preston Lions vs Wollongong Wolves - Chuối Kem (HD1)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [Australian Championship] Preston Lions vs Wollongong Wolves - Chuối Kem (HD2)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [Australian Championship] Preston Lions vs Wollongong Wolves - Chuối Kem (FHD)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Gangwon FC vs Phnom Penh Crown - Chuối Ngao (HD1)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Gangwon FC vs Phnom Penh Crown - Chuối Ngao (HD2)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Gangwon FC vs Phnom Penh Crown - Chuối Ngao (FHD)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Wofoo Tai Po vs Lion City Sailors FC - Chuối Nhỏ (HD1)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Wofoo Tai Po vs Lion City Sailors FC - Chuối Nhỏ (HD2)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Wofoo Tai Po vs Lion City Sailors FC - Chuối Nhỏ (FHD)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Pathum United vs Adelaide United - Chuối Sấy (HD1)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Pathum United vs Adelaide United - Chuối Sấy (HD2)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Pathum United vs Adelaide United - Chuối Sấy (FHD)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Svay Rieng vs Shanghai Shenhua - Trốc Tru (HD1)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Svay Rieng vs Shanghai Shenhua - Trốc Tru (HD2)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Svay Rieng vs Shanghai Shenhua - Trốc Tru (FHD)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Tampines Rovers vs Machida Zelvia - Chuối Lá (HD1)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Tampines Rovers vs Machida Zelvia - Chuối Lá (HD2)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 group-title="Tivi Vip 1", [AFC Cup] Tampines Rovers vs Machida Zelvia - Chuối Lá (FHD)
+https://tv.vietanhtv.top/chuoichientv/play.php?url=https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghn8l64m0v" tvg-name="Red Bull Salzburg vs Milan" tvg-logo="https://static.sportsfeed.pro/football/team/4e07d3ac5c7d1f02fba7fa4c14c8ee76.png" group-title="Tivi Vip 1",[UEFA Europa League] [23:45 15/10] [NS] Red Bull Salzburg vs Milan (Link 1 (Tencent))
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghn8l64m0v" tvg-name="Red Bull Salzburg vs Milan" tvg-logo="https://static.sportsfeed.pro/football/team/4e07d3ac5c7d1f02fba7fa4c14c8ee76.png" group-title="Tivi Vip 1",[UEFA Europa League] [23:45 15/10] [NS] Red Bull Salzburg vs Milan (Link 2 (Alibaba))
+https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhlp943ryk" tvg-name="Fluminense RJ vs Palmeiras" tvg-logo="https://static.sportsfeed.pro/football/team/a6bce9adfac7903426bed2b253991a18.png" group-title="Tivi Vip 1",[CONMEBOL Copa Libertadores] [07:30 15/10] [Hiệp 1 35'] Fluminense RJ 0-0 Palmeiras (Link 1 (Tencent))
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 tvg-id="pxwrxlhlp943ryk" tvg-name="Fluminense RJ vs Palmeiras" tvg-logo="https://static.sportsfeed.pro/football/team/a6bce9adfac7903426bed2b253991a18.png" group-title="Tivi Vip 1",[CONMEBOL Copa Libertadores] [07:30 15/10] [NS] Fluminense RJ vs Palmeiras (Link 2 (Alibaba))
+#EXTINF:-1 tvg-id="pxwrxlhlp943ryk" tvg-name="Fluminense RJ vs Palmeiras" tvg-logo="https://static.sportsfeed.pro/football/team/a6bce9adfac7903426bed2b253991a18.png" group-title="Tivi Vip 1",[CONMEBOL Copa Libertadores] [07:30 15/10] [Hiệp 1 35'] Fluminense RJ 0-0 Palmeiras (Link 2 (Alibaba))
 https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 tvg-id="k82rekhgxeplrep" tvg-name="St. Louis City SC vs Vancouver Whitecaps" tvg-logo="https://static.sportsfeed.pro/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png" group-title="Tivi Vip 1",[United States Major League Soccer] [07:30 15/10] [NS] St. Louis City SC vs Vancouver Whitecaps (Link 1 (Tencent))
+#EXTINF:-1 tvg-id="k82rekhgxeplrep" tvg-name="St. Louis City SC vs Vancouver Whitecaps" tvg-logo="https://static.sportsfeed.pro/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png" group-title="Tivi Vip 1",[United States Major League Soccer] [07:40 15/10] [Hiệp 1 26'] St. Louis City SC 0-0 Vancouver Whitecaps (Link 1 (Tencent))
 https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8
-#EXTINF:-1 tvg-id="k82rekhgxeplrep" tvg-name="St. Louis City SC vs Vancouver Whitecaps" tvg-logo="https://static.sportsfeed.pro/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png" group-title="Tivi Vip 1",[United States Major League Soccer] [07:30 15/10] [NS] St. Louis City SC vs Vancouver Whitecaps (Link 2 (Alibaba))
+#EXTINF:-1 tvg-id="k82rekhgxeplrep" tvg-name="St. Louis City SC vs Vancouver Whitecaps" tvg-logo="https://static.sportsfeed.pro/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png" group-title="Tivi Vip 1",[United States Major League Soccer] [07:40 15/10] [Hiệp 1 26'] St. Louis City SC 0-0 Vancouver Whitecaps (Link 2 (Alibaba))
 https://playback.livetl004.com/live/69b8e6f43bcf2231c35d5144.m3u8
 #EXTINF:-1 tvg-id="jw2r09hk03zjrz8" tvg-name="Real Salt Lake vs San Jose Earthquakes" tvg-logo="https://static.sportsfeed.pro/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png" group-title="Tivi Vip 1",[United States Major League Soccer] [08:30 15/10] [NS] Real Salt Lake vs San Jose Earthquakes (Link 1 (Tencent))
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
@@ -1031,6 +1059,50 @@ https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
 #EXTINF:-1 tvg-id="dj2ryohlxpo2q1z" tvg-name="Los Angeles FC vs Austin FC" tvg-logo="https://static.sportsfeed.pro/football/team/9c5ad5227377e12b87f77790d3d88c1c.png" group-title="Tivi Vip 1",[United States Major League Soccer] [09:30 15/10] [NS] Los Angeles FC vs Austin FC (Link 2 (Alibaba))
 https://playback.livetl004.com/live/69be75e0a0a45974afb67776.m3u8
+#EXTINF:-1 tvg-id="318q66h8z52eqo9" tvg-name="Preston Lions vs South Coast Wolves" tvg-logo="https://static.sportsfeed.pro/football/team/6dff2291fe2e822de2e8068a182c4759.jpg" group-title="Tivi Vip 1",[Aus Champ] [15:30 15/10] [NS] Preston Lions vs South Coast Wolves (Link 1 (Tencent))
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
+#EXTINF:-1 tvg-id="318q66h8z52eqo9" tvg-name="Preston Lions vs South Coast Wolves" tvg-logo="https://static.sportsfeed.pro/football/team/6dff2291fe2e822de2e8068a182c4759.jpg" group-title="Tivi Vip 1",[Aus Champ] [15:30 15/10] [NS] Preston Lions vs South Coast Wolves (Link 2 (Alibaba))
+https://playback.livetl004.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h6j7v4q86" tvg-name="Tai Po vs Lion City Sailors" tvg-logo="https://static.sportsfeed.pro/football/team/df5e92ce4493d63214e8036ad15c1915.png" group-title="Tivi Vip 1",[AFC Champions League Two] [17:00 15/10] [NS] Tai Po vs Lion City Sailors (Link 1 (Tencent))
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h6j7v4q86" tvg-name="Tai Po vs Lion City Sailors" tvg-logo="https://static.sportsfeed.pro/football/team/df5e92ce4493d63214e8036ad15c1915.png" group-title="Tivi Vip 1",[AFC Champions League Two] [17:00 15/10] [NS] Tai Po vs Lion City Sailors (Link 2 (Alibaba))
+https://playback.livetl004.com/live/6a439a7fb89dded67b208b87.m3u8
+#EXTINF:-1 tvg-id="zp5rzghgn2xvq82" tvg-name="Gangwon FC vs Phnom Penh FC" tvg-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" group-title="Tivi Vip 1",[AFC Champions League Two] [17:00 15/10] [NS] Gangwon FC vs Phnom Penh FC (Link 1 (Tencent))
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8
+#EXTINF:-1 tvg-id="zp5rzghgn2xvq82" tvg-name="Gangwon FC vs Phnom Penh FC" tvg-logo="https://static.sportsfeed.pro/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" group-title="Tivi Vip 1",[AFC Champions League Two] [17:00 15/10] [NS] Gangwon FC vs Phnom Penh FC (Link 2 (Alibaba))
+https://playback.livetl004.com/live/6a704ad865997681f18c2160.m3u8
+#EXTINF:-1 tvg-id="1l4rjnh983x7m7v" tvg-name="BG Pathum United vs Adelaide United" tvg-logo="https://static.sportsfeed.pro/football/team/12fe4d3ee5c01134d48584015c4646f3.png" group-title="Tivi Vip 1",[AFC Champions League Two] [19:15 15/10] [NS] BG Pathum United vs Adelaide United (Link 1 (Tencent))
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8
+#EXTINF:-1 tvg-id="1l4rjnh983x7m7v" tvg-name="BG Pathum United vs Adelaide United" tvg-logo="https://static.sportsfeed.pro/football/team/12fe4d3ee5c01134d48584015c4646f3.png" group-title="Tivi Vip 1",[AFC Champions League Two] [19:15 15/10] [NS] BG Pathum United vs Adelaide United (Link 2 (Alibaba))
+https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhy62z5ryk" tvg-name="Svay Rieng FC vs Shanghai Shenhua FC" tvg-logo="https://static.sportsfeed.pro/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png" group-title="Tivi Vip 1",[AFC Champions League Two] [19:15 15/10] [NS] Svay Rieng FC vs Shanghai Shenhua FC (Link 1 (Tencent))
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhy62z5ryk" tvg-name="Svay Rieng FC vs Shanghai Shenhua FC" tvg-logo="https://static.sportsfeed.pro/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png" group-title="Tivi Vip 1",[AFC Champions League Two] [19:15 15/10] [NS] Svay Rieng FC vs Shanghai Shenhua FC (Link 2 (Alibaba))
+https://playback.livetl004.com/live/6a5df755b89dded67b39b8bc.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghn8073m0v" tvg-name="Kuching City FC vs Kitchee" tvg-logo="https://static.sportsfeed.pro/football/team/81f5727743f8759ae7a99b8d7f2557e3.png" group-title="Tivi Vip 1",[AFC Champions League Two] [19:15 15/10] [NS] Kuching City FC vs Kitchee (Link 1 (Tencent))
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghn8073m0v" tvg-name="Kuching City FC vs Kitchee" tvg-logo="https://static.sportsfeed.pro/football/team/81f5727743f8759ae7a99b8d7f2557e3.png" group-title="Tivi Vip 1",[AFC Champions League Two] [19:15 15/10] [NS] Kuching City FC vs Kitchee (Link 2 (Alibaba))
+https://playback.livetl004.com/live/6a7c0d8f65997681f18cacc4.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghe1owkr6o" tvg-name="Al Faisaly Harmah vs Al Kholood" tvg-logo="https://static.sportsfeed.pro/football/team/4e9f55c1006ca24b2b535054a52187e8.png" group-title="Tivi Vip 1",[Saudi Professional League] [20:40 15/10] [NS] Al Faisaly Harmah vs Al Kholood (Link 1 (Tencent))
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghe1owkr6o" tvg-name="Al Faisaly Harmah vs Al Kholood" tvg-logo="https://static.sportsfeed.pro/football/team/4e9f55c1006ca24b2b535054a52187e8.png" group-title="Tivi Vip 1",[Saudi Professional League] [20:40 15/10] [NS] Al Faisaly Harmah vs Al Kholood (Link 2 (Alibaba))
+https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8
+#EXTINF:-1 tvg-id="n54qllhn0yzyqvy" tvg-name="Al Khaleej Club vs Al-Fayha" tvg-logo="https://static.sportsfeed.pro/football/team/6d48cbd483dee74ed9aef387bb082d64.png" group-title="Tivi Vip 1",[Saudi Professional League] [21:50 15/10] [NS] Al Khaleej Club vs Al-Fayha (Link 1 (Tencent))
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
+#EXTINF:-1 tvg-id="n54qllhn0yzyqvy" tvg-name="Al Khaleej Club vs Al-Fayha" tvg-logo="https://static.sportsfeed.pro/football/team/6d48cbd483dee74ed9aef387bb082d64.png" group-title="Tivi Vip 1",[Saudi Professional League] [21:50 15/10] [NS] Al Khaleej Club vs Al-Fayha (Link 2 (Alibaba))
+https://playback.livetl004.com/live/69be75e0a0a45974afb67776.m3u8
+#EXTINF:-1 tvg-id="x7lm7phj6d7vm2w" tvg-name="Al Hazem vs Al Fateh" tvg-logo="https://static.sportsfeed.pro/football/team/0459eff25f56626beed63c97e0e67dcf.png" group-title="Tivi Vip 1",[Saudi Professional League] [22:15 15/10] [NS] Al Hazem vs Al Fateh (Link 1 (Tencent))
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8
+#EXTINF:-1 tvg-id="x7lm7phj6d7vm2w" tvg-name="Al Hazem vs Al Fateh" tvg-logo="https://static.sportsfeed.pro/football/team/0459eff25f56626beed63c97e0e67dcf.png" group-title="Tivi Vip 1",[Saudi Professional League] [22:15 15/10] [NS] Al Hazem vs Al Fateh (Link 2 (Alibaba))
+https://playback.livetl004.com/live/6a5df755b89dded67b39b8bc.m3u8
+#EXTINF:-1 tvg-id="318q66hx9ljoqo9" tvg-name="Hajduk Split vs AFC Ajax" tvg-logo="https://static.sportsfeed.pro/football/team/5099192a1226b54aa2ce2a430edf9af9.png" group-title="Tivi Vip 1",[UEFA Europa Conference League] [23:45 15/10] [NS] Hajduk Split vs AFC Ajax (Link 1 (Tencent))
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
+#EXTINF:-1 tvg-id="318q66hx9ljoqo9" tvg-name="Hajduk Split vs AFC Ajax" tvg-logo="https://static.sportsfeed.pro/football/team/5099192a1226b54aa2ce2a430edf9af9.png" group-title="Tivi Vip 1",[UEFA Europa Conference League] [23:45 15/10] [NS] Hajduk Split vs AFC Ajax (Link 2 (Alibaba))
+https://playback.livetl004.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h6jg9dq86" tvg-name="CSKA Sofia vs Monaco" tvg-logo="https://static.sportsfeed.pro/football/team/3b19cae478679881554914e45d318742.png" group-title="Tivi Vip 1",[UEFA Europa Conference League] [23:45 15/10] [NS] CSKA Sofia vs Monaco (Link 1 (Tencent))
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h6jg9dq86" tvg-name="CSKA Sofia vs Monaco" tvg-logo="https://static.sportsfeed.pro/football/team/3b19cae478679881554914e45d318742.png" group-title="Tivi Vip 1",[UEFA Europa Conference League] [23:45 15/10] [NS] CSKA Sofia vs Monaco (Link 2 (Alibaba))
+https://playback.livetl004.com/live/6a9776215126529dede9bf51.m3u8
 #EXTINF:-1 tvg-id="318q66hx9y63qo9" tvg-name="LASK Linz vs Liverpool" tvg-logo="https://static.sportsfeed.pro/football/team/5d33f831f779428858138d28c9dd4480.png" group-title="Tivi Vip 1",[UEFA Champions League] [23:45 14/10] [Kết Thúc] LASK Linz vs Liverpool (Link 1 (Tencent))
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
 #EXTINF:-1 tvg-id="318q66hx9y63qo9" tvg-name="LASK Linz vs Liverpool" tvg-logo="https://static.sportsfeed.pro/football/team/5d33f831f779428858138d28c9dd4480.png" group-title="Tivi Vip 1",[UEFA Champions League] [23:45 14/10] [Kết Thúc] LASK Linz vs Liverpool (Link 2 (Alibaba))
@@ -1047,44 +1119,14 @@ https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
 #EXTINF:-1 tvg-id="jw2r09hk8x4yrz8" tvg-name="FAR Rabat vs Raja Club Athletic" tvg-logo="https://static.sportsfeed.pro/football/team/cded7b7cce01069ad7d13ebf14a03723.png" group-title="Tivi Vip 1",[The Botola Pro] [00:00 15/10] [PS] FAR Rabat vs Raja Club Athletic (Link 2 (Alibaba))
 https://playback.livetl004.com/live/6a7c0d8f65997681f18cacc4.m3u8
-#EXTINF:-1 tvg-id="k82rekhg5p6xrep" tvg-name="Aston Villa vs Fenerbahce" tvg-logo="https://static.sportsfeed.pro/football/team/a3c32d6a906083118cac2cb796edaab3.png" group-title="Tivi Vip 1",[UEFA Champions League] [02:00 15/10] [Kết Thúc] Aston Villa vs Fenerbahce (Link 1 (Tencent))
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
-#EXTINF:-1 tvg-id="k82rekhg5p6xrep" tvg-name="Aston Villa vs Fenerbahce" tvg-logo="https://static.sportsfeed.pro/football/team/a3c32d6a906083118cac2cb796edaab3.png" group-title="Tivi Vip 1",[UEFA Champions League] [02:00 15/10] [Kết Thúc] Aston Villa vs Fenerbahce (Link 2 (Alibaba))
-https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
-#EXTINF:-1 tvg-id="318q6nt6yl6omo9" tvg-name="Boston Celtics vs Charlotte Hornets" tvg-logo="" group-title="Tivi Vip 1",[National Basketball Association] [06:30 15/10] [NS] Boston Celtics vs Charlotte Hornets (Link 1 (Tencent))
+#EXTINF:-1 tvg-id="318q6nt6yl6omo9" tvg-name="Boston Celtics vs Charlotte Hornets" tvg-logo="" group-title="Tivi Vip 1",[National Basketball Association] [06:30 15/10] [Q3] Boston Celtics 0-0 Charlotte Hornets (Link 1 (Tencent))
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
-#EXTINF:-1 tvg-id="318q6nt6yl6omo9" tvg-name="Boston Celtics vs Charlotte Hornets" tvg-logo="" group-title="Tivi Vip 1",[National Basketball Association] [06:30 15/10] [NS] Boston Celtics vs Charlotte Hornets (Link 2 (Alibaba))
+#EXTINF:-1 tvg-id="318q6nt6yl6omo9" tvg-name="Boston Celtics vs Charlotte Hornets" tvg-logo="" group-title="Tivi Vip 1",[National Basketball Association] [06:30 15/10] [Q3] Boston Celtics 0-0 Charlotte Hornets (Link 2 (Alibaba))
 https://playback.livetl004.com/live/69d37c3a4da3e15776b6db56.m3u8
-#EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 04:30-15/10: Atletico Junior Barranquilla - Deportivo Pereira (COL D1) - BLV CÁO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=597929
-#EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 04:30-15/10: Atletico Junior Barranquilla - Deportivo Pereira (COL D1) - BLV A TINH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=598119
-#EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/10: Sarmiento Junin - River Plate (ARG D1) - BLV YONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=372746
-#EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/10: Sarmiento Junin - River Plate (ARG D1) - BLV VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=491873
-#EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/10: Atlético Mineiro - MG - Montevideo City Torque (CON CSA) - BLV HUCK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=623653
-#EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/10: Atlético Mineiro - MG - Montevideo City Torque (CON CSA) - ASHAHI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=626841
+#EXTINF:-1 tvg-id="8yomovtgd959q0j" tvg-name="Los Angeles Clippers vs Denver Nuggets" tvg-logo="" group-title="Tivi Vip 1",[National Basketball Association] [09:30 15/10] [NS] Los Angeles Clippers vs Denver Nuggets (Link 1 (Tencent))
+https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
+#EXTINF:-1 tvg-id="8yomovtgd959q0j" tvg-name="Los Angeles Clippers vs Denver Nuggets" tvg-logo="" group-title="Tivi Vip 1",[National Basketball Association] [09:30 15/10] [NS] Los Angeles Clippers vs Denver Nuggets (Link 2 (Alibaba))
+https://playback.livetl004.com/live/69d37c3a4da3e15776b6db56.m3u8
 #EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:30-15/10: Montreal Impact - Atlanta United (USA MLS) - BLV GIÓ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -1315,16 +1357,16 @@ https://tv.vietanhtv.top/socolive/get.php?id=623653
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=283501
-#EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 09:30-15/10: San Diego FC - Houston Dynamo (USA MLS) - BLV LION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://tv.vietanhtv.top/socolive/get.php?id=603255
 #EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 09:30-15/10: San Diego FC - Houston Dynamo (USA MLS) - T REX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://tv.vietanhtv.top/socolive/get.php?id=619672
+#EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 09:30-15/10: San Diego FC - Houston Dynamo (USA MLS) - BLV A WIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://tv.vietanhtv.top/socolive/get.php?id=536185
 #EXTINF:-1 group-title="Tivi Vip 1" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:30-15/10: Los Angeles Clippers - Denver Nuggets (NBA) - KING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -2878,13 +2920,13 @@ https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavang33.live&User-Age
 #EXTVLCOPT:http-referrer=https://gavang33.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live2.zktsva.app/live/432017.flv|Referer=https://gavang33.live&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Phá Làng TV" , 06:30 15/10 ⚽ 🔥 Inter Miami CF vs New York City Football Club (BLV LÝ LA LÀNG) [geo]
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Phá Làng TV" , 🔴 06:30 15/10 ⚽ 🔥 Inter Miami CF vs New York City Football Club (BLV LÝ LA LÀNG) [geo]
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/8bc1567edd4c4e6eb44024a0a44025c9/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Phá Làng TV" , 06:30 15/10 ⚽ 🔥 Inter Miami CF vs New York City Football Club (BLV LÝ LA LÀNG) (HD2) [geo]
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Phá Làng TV" , 🔴 06:30 15/10 ⚽ 🔥 Inter Miami CF vs New York City Football Club (BLV LÝ LA LÀNG) (HD2) [geo]
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull1.digitalcdn.net/live/8bc1567edd4c4e6eb44024a0a44025c9/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Phá Làng TV" , 06:30 15/10 ⚽ 🔥 Inter Miami CF vs New York City Football Club (Nhà đài)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/976fe1d29c112f4baeb844cdda2f04cb.png" group-title="Phá Làng TV" , 🔴 06:30 15/10 ⚽ 🔥 Inter Miami CF vs New York City Football Club (Nhà đài)
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://lilive1.eu.cc/live/e8b5d76f2297f33fd507816e99baed16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" group-title="Phá Làng TV" , 17:00 15/10 ⚽ 🔥 Gangwon FC vs Phnom Penh Crown FC (BLV LÝ LINH LỰC) [geo]
@@ -2977,40 +3019,13 @@ https://pull.digitalcdn.net/live/15b795534ac54a06a0f296b8bd1da7f8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png" group-title="Phá Làng TV" , 19:30 15/10 🏐 🔥 VTV BĐ Long An vs XMLS Thanh Hoá (BLV LÝ LIỀU LĨNH) (HD2) [geo]
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull1.digitalcdn.net/live/15b795534ac54a06a0f296b8bd1da7f8/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ AS Roma vs Real Madrid (Chuối Lá) [HD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ AS Roma vs Real Madrid (Chuối Lá) [HD2] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ AS Roma vs Real Madrid (Chuối Lá) [FHD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ Real Betis vs FC Porto (Chuối Trốc Tru) [HD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ Real Betis vs FC Porto (Chuối Trốc Tru) [HD2] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ Real Betis vs FC Porto (Chuối Trốc Tru) [FHD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125644_84f4e145.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ Bodo/Glimt vs Borussia Dortmund (Chuối Tây) [HD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125644_84f4e145.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ Bodo/Glimt vs Borussia Dortmund (Chuối Tây) [HD2] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125644_84f4e145.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ Bodo/Glimt vs Borussia Dortmund (Chuối Tây) [FHD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ Manchester City vs Paris Saint Germain (Chuối Chao) [HD1] [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuối Chiên TV" , 🟢 06:30 15/10 ⚽ Inter Miami vs New York City FC (Chuối Chao) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ Manchester City vs Paris Saint Germain (Chuối Chao) [HD2] [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuối Chiên TV" , 🟢 06:30 15/10 ⚽ Inter Miami vs New York City FC (Chuối Chao) [HD2] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" group-title="Chuối Chiên TV" , 🟢 02:00 15/10 ⚽ Manchester City vs Paris Saint Germain (Chuối Chao) [FHD] [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuối Chiên TV" , 🟢 06:30 15/10 ⚽ Inter Miami vs New York City FC (Chuối Chao) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" group-title="Chuối Chiên TV" , 🟡 08:30 15/10 ⚽ Colorado Rapids vs Minnesota United FC (Chuối Sấy) [HD1] [hls]
@@ -3028,17 +3043,67 @@ https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_20c3f42a.png" group-title="Chuối Chiên TV" , 🟡 09:30 15/10 ⚽ Los Angeles Galaxy vs Portland Timbers (Chuối To) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813f97c0-d82f-4f27-b4c9-0f106319e623" group-title="S8TV" , 🟢 05:00 15/10 ⚽ Atlético Mineiro vs Montevideo City Torque (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/mineiro-torque-copasuda/index.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/813f97c0-d82f-4f27-b4c9-0f106319e623" group-title="S8TV" , 🟢 05:00 15/10 ⚽ Atlético Mineiro vs Montevideo City Torque (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/mineiro-torque-copasuda.flv
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8TV" , 06:30 15/10 ⚽ Inter Miami CF vs New York City FC (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_72f0bbb2.png" group-title="Chuối Chiên TV" , 🟡 12:00 15/10 ⚽ Hunters vs Khovd (Chuối Tây) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_72f0bbb2.png" group-title="Chuối Chiên TV" , 🟡 12:00 15/10 ⚽ Hunters vs Khovd (Chuối Tây) [HD2] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_72f0bbb2.png" group-title="Chuối Chiên TV" , 🟡 12:00 15/10 ⚽ Hunters vs Khovd (Chuối Tây) [FHD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png" group-title="Chuối Chiên TV" , 🟡 15:30 15/10 ⚽ Preston Lions vs Wollongong Wolves (Chuối Kem) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png" group-title="Chuối Chiên TV" , 🟡 15:30 15/10 ⚽ Preston Lions vs Wollongong Wolves (Chuối Kem) [HD2] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png" group-title="Chuối Chiên TV" , 🟡 15:30 15/10 ⚽ Preston Lions vs Wollongong Wolves (Chuối Kem) [FHD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" group-title="Chuối Chiên TV" , 🟡 17:00 15/10 ⚽ Gangwon FC vs Phnom Penh Crown (Chuối Ngao) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" group-title="Chuối Chiên TV" , 🟡 17:00 15/10 ⚽ Gangwon FC vs Phnom Penh Crown (Chuối Ngao) [HD2] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" group-title="Chuối Chiên TV" , 🟡 17:00 15/10 ⚽ Gangwon FC vs Phnom Penh Crown (Chuối Ngao) [FHD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130647_3a27cac2.png" group-title="Chuối Chiên TV" , 🟡 17:00 15/10 ⚽ Wofoo Tai Po vs Lion City Sailors FC (Chuối Nhỏ) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130647_3a27cac2.png" group-title="Chuối Chiên TV" , 🟡 17:00 15/10 ⚽ Wofoo Tai Po vs Lion City Sailors FC (Chuối Nhỏ) [HD2] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130647_3a27cac2.png" group-title="Chuối Chiên TV" , 🟡 17:00 15/10 ⚽ Wofoo Tai Po vs Lion City Sailors FC (Chuối Nhỏ) [FHD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" group-title="Chuối Chiên TV" , 🟡 19:15 15/10 ⚽ Svay Rieng vs Shanghai Shenhua (Chuối Trốc Tru) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" group-title="Chuối Chiên TV" , 🟡 19:15 15/10 ⚽ Svay Rieng vs Shanghai Shenhua (Chuối Trốc Tru) [HD2] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" group-title="Chuối Chiên TV" , 🟡 19:15 15/10 ⚽ Svay Rieng vs Shanghai Shenhua (Chuối Trốc Tru) [FHD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" group-title="Chuối Chiên TV" , 🟡 19:15 15/10 ⚽ Tampines Rovers vs Machida Zelvia (Chuối Lá) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" group-title="Chuối Chiên TV" , 🟡 19:15 15/10 ⚽ Tampines Rovers vs Machida Zelvia (Chuối Lá) [HD2] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" group-title="Chuối Chiên TV" , 🟡 19:15 15/10 ⚽ Tampines Rovers vs Machida Zelvia (Chuối Lá) [FHD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8TV" , 🟢 06:30 15/10 ⚽ Inter Miami CF vs New York City FC (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/miami-nyfc-mls/index.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8TV" , 06:30 15/10 ⚽ Inter Miami CF vs New York City FC (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="S8TV" , 🟢 06:30 15/10 ⚽ Inter Miami CF vs New York City FC (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/miami-nyfc-mls.flv
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8TV" , 07:30 15/10 ⚽ Fluminese vs Palmeiras (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8TV" , 🟢 07:30 15/10 ⚽ Fluminese vs Palmeiras (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/flum-palme-copaliber/index.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8TV" , 07:30 15/10 ⚽ Fluminese vs Palmeiras (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/99190cc7-4da4-42bf-aa76-e1158818603f" group-title="S8TV" , 🟢 07:30 15/10 ⚽ Fluminese vs Palmeiras (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/flum-palme-copaliber.flv
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="S8TV" , 09:30 15/10 ⚽ Los Angeles FC vs Austin FC (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/lafc-austin-mls/index.m3u8
@@ -3076,10 +3141,10 @@ https://flv.lauthaitv.cc/live/mardin-kara-tur1st.flv
 https://hls.lauthaitv.cc/live/khalee-fayha-ksapro/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/cbf44ec5-f2c0-4bcb-9c29-b13d62b9077a" group-title="S8TV" , 21:50 15/10 ⚽ Al Khaleej Club vs Al Fayha (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/khalee-fayha-ksapro.flv
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6eb6b475-24da-4b65-9c39-e854ab8844e5" group-title="S8TV" , 23:00 15/10 ⚽ Rigas Futbola Skola vs Super Nova (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/riga-nova-lathigh/index.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/6eb6b475-24da-4b65-9c39-e854ab8844e5" group-title="S8TV" , 23:00 15/10 ⚽ Rigas Futbola Skola vs Super Nova (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/riga-nova-lathigh.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/57cd1f05-d468-4e52-b12c-ea2eee711f6b" group-title="S8TV" , 23:45 15/10 ⚽ Lech Poznan vs Bayer 04 Leverkusen (NGƯỜI DÊ) [hls]
+https://hls.lauthaitv.cc/live/lech-lever-c2/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/57cd1f05-d468-4e52-b12c-ea2eee711f6b" group-title="S8TV" , 23:45 15/10 ⚽ Lech Poznan vs Bayer 04 Leverkusen (NGƯỜI DÊ) [flv]
+https://flv.lauthaitv.cc/live/lech-lever-c2.flv
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e1bc82d5-0587-4f4b-9474-cc9101025505" group-title="S8TV" , 23:45 15/10 ⚽ SCU Torreense vs Sunderland (NGƯỜI CHÈ) [hls]
 https://hls.lauthaitv.cc/live/tor-sun-c2/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/e1bc82d5-0587-4f4b-9474-cc9101025505" group-title="S8TV" , 23:45 15/10 ⚽ SCU Torreense vs Sunderland (NGƯỜI CHÈ) [flv]
@@ -3092,10 +3157,10 @@ https://flv.lauthaitv.cc/live/salz-milan-c2.flv
 https://hls.lauthaitv.cc/live/lyon-cry-c2/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/21e30f4b-5e7d-4018-9a43-e01d9a02f714" group-title="S8TV" , 23:45 15/10 ⚽ Lyon vs Crystal Palace (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/lyon-cry-c2.flv
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a89adfad-1928-4a4e-a8b5-5608fb590e4b" group-title="S8TV" , 01:00 16/10 ⚽ Al Ahli vs Al Nassr FC (NGƯỜI DÊ) [hls]
-https://hls.lauthaitv.cc/live/ahli-nassr-ksapro/index.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a89adfad-1928-4a4e-a8b5-5608fb590e4b" group-title="S8TV" , 01:00 16/10 ⚽ Al Ahli vs Al Nassr FC (NGƯỜI DÊ) [flv]
-https://flv.lauthaitv.cc/live/ahli-nassr-ksapro.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/93258146-5f67-4747-b4c8-51687f0b6914" group-title="S8TV" , 02:00 16/10 ⚽ Benfica vs Celtic FC (NGƯỜI DÊ) [hls]
+https://hls.lauthaitv.cc/live/benfica-celtic-c2/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/93258146-5f67-4747-b4c8-51687f0b6914" group-title="S8TV" , 02:00 16/10 ⚽ Benfica vs Celtic FC (NGƯỜI DÊ) [flv]
+https://flv.lauthaitv.cc/live/benfica-celtic-c2.flv
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5de224c0-3c91-4c6c-a0d3-38841303e19a" group-title="S8TV" , 02:00 16/10 ⚽ RC Celta vs Juventus (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/celta-juv-c2/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/5de224c0-3c91-4c6c-a0d3-38841303e19a" group-title="S8TV" , 02:00 16/10 ⚽ RC Celta vs Juventus (NGƯỜI CAT) [flv]
@@ -3108,6 +3173,22 @@ https://flv.lauthaitv.cc/live/bou-sutrm-c2.flv
 https://hls.lauthaitv.cc/live/bha-kauno-c3/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/0e085de9-4412-4fcc-afba-050ac2408f58" group-title="S8TV" , 02:00 16/10 ⚽ Brighton Hove Albion vs Kauno Zalgiris (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/bha-kauno-c3.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96a1a623-2198-4fc9-8e0b-4d1304ac4d68" group-title="S8TV" , 03:00 16/10 ⚽ Independiente del Valle Women vs Belgrano Women (NGƯỜI SÓI) [hls]
+https://hls.lauthaitv.cc/live/vallew-belw-copaw/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96a1a623-2198-4fc9-8e0b-4d1304ac4d68" group-title="S8TV" , 03:00 16/10 ⚽ Independiente del Valle Women vs Belgrano Women (NGƯỜI SÓI) [flv]
+https://flv.lauthaitv.cc/live/vallew-belw-copaw.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38bd56da-aaf6-4543-8728-80c3e30568ba" group-title="S8TV" , 05:15 16/10 ⚽ Deportivo Rionegro vs Patriotas FC (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/rione-patriot-col2nd/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38bd56da-aaf6-4543-8728-80c3e30568ba" group-title="S8TV" , 05:15 16/10 ⚽ Deportivo Rionegro vs Patriotas FC (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/rione-patriot-col2nd.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ae48c62a-870a-4055-ad06-13cf5dafdbd8" group-title="S8TV" , 06:00 16/10 ⚽ CA Huracan vs Gimnasia La Plata (NGƯỜI SÓI) [hls]
+https://hls.lauthaitv.cc/live/huracan-gimna-argdiv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/ae48c62a-870a-4055-ad06-13cf5dafdbd8" group-title="S8TV" , 06:00 16/10 ⚽ CA Huracan vs Gimnasia La Plata (NGƯỜI SÓI) [flv]
+https://flv.lauthaitv.cc/live/huracan-gimna-argdiv1.flv
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2026c8b8-eb4d-4c3f-ab85-45382795de23" group-title="S8TV" , 07:30 16/10 ⚽ Estudiantes La Plata vs Flamengo (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/estpla-flamengo-copalibe/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/2026c8b8-eb4d-4c3f-ab85-45382795de23" group-title="S8TV" , 07:30 16/10 ⚽ Estudiantes La Plata vs Flamengo (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/estpla-flamengo-copalibe.flv
 #EXTINF:-1 tvg-logo="https://apiv3.apifootball.com/badges/7953_inter-miami.jpg" group-title="Xôi chè TV",06:30 15/10 ⚽ Inter Miami vs New York City (BLV Khô Mật) [FHD]
 https://live.khoga.space/live/livehub13/index.m3u8
 #EXTINF:-1 tvg-logo="https://apiv3.apifootball.com/badges/1879_fluminense.jpg" group-title="Xôi chè TV",07:30 15/10 ⚽ Fluminense vs Palmeiras (BLV Khô Cay) [FHD]
@@ -4098,15 +4179,6 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-logo="https://xoiche2.live/images/teams/manchester-united.png" group-title="Xôi chè TV",07:56 11/09 ⚽ Manchester Utd U19 vs Sabah Baku U19 (Nhà Đài) [FHD]
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Junior vs Deportivo Pereira" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_095d7988.png" group-title="Bông lau TV",[04:30 15/10] Junior vs Deportivo Pereira (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Junior vs Deportivo Pereira" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_095d7988.png" group-title="Bông lau TV",[04:30 15/10] Junior vs Deportivo Pereira (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Junior vs Deportivo Pereira" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_095d7988.png" group-title="Bông lau TV",[04:30 15/10] Junior vs Deportivo Pereira (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Inter Miami vs New York City FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Bông lau TV",[06:30 15/10] Inter Miami vs New York City FC (Chuối Chao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -4131,6 +4203,138 @@ https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|Referer=https://live.
 #EXTINF:-1 tvg-name="Los Angeles Galaxy vs Portland Timbers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131604_20c3f42a.png" group-title="Bông lau TV",[09:30 15/10] Los Angeles Galaxy vs Portland Timbers (Chuối To) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Hunters vs Khovd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_72f0bbb2.png" group-title="Bông lau TV",[12:00 15/10] Hunters vs Khovd (Chuối Tây) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Hunters vs Khovd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_72f0bbb2.png" group-title="Bông lau TV",[12:00 15/10] Hunters vs Khovd (Chuối Tây) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Hunters vs Khovd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_72f0bbb2.png" group-title="Bông lau TV",[12:00 15/10] Hunters vs Khovd (Chuối Tây) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Preston Lions vs Wollongong Wolves" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png" group-title="Bông lau TV",[15:30 15/10] Preston Lions vs Wollongong Wolves (Chuối Kem) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Preston Lions vs Wollongong Wolves" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png" group-title="Bông lau TV",[15:30 15/10] Preston Lions vs Wollongong Wolves (Chuối Kem) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Preston Lions vs Wollongong Wolves" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png" group-title="Bông lau TV",[15:30 15/10] Preston Lions vs Wollongong Wolves (Chuối Kem) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Gangwon FC vs Phnom Penh Crown" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" group-title="Bông lau TV",[17:00 15/10] Gangwon FC vs Phnom Penh Crown (Chuối Ngao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Gangwon FC vs Phnom Penh Crown" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" group-title="Bông lau TV",[17:00 15/10] Gangwon FC vs Phnom Penh Crown (Chuối Ngao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Gangwon FC vs Phnom Penh Crown" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" group-title="Bông lau TV",[17:00 15/10] Gangwon FC vs Phnom Penh Crown (Chuối Ngao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Wofoo Tai Po vs Lion City Sailors FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130647_3a27cac2.png" group-title="Bông lau TV",[17:00 15/10] Wofoo Tai Po vs Lion City Sailors FC (Chuối Nhỏ) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Wofoo Tai Po vs Lion City Sailors FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130647_3a27cac2.png" group-title="Bông lau TV",[17:00 15/10] Wofoo Tai Po vs Lion City Sailors FC (Chuối Nhỏ) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Wofoo Tai Po vs Lion City Sailors FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130647_3a27cac2.png" group-title="Bông lau TV",[17:00 15/10] Wofoo Tai Po vs Lion City Sailors FC (Chuối Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Pathum United vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" group-title="Bông lau TV",[19:15 15/10] Pathum United vs Adelaide United (Chuối Sấy) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Pathum United vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" group-title="Bông lau TV",[19:15 15/10] Pathum United vs Adelaide United (Chuối Sấy) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Pathum United vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png" group-title="Bông lau TV",[19:15 15/10] Pathum United vs Adelaide United (Chuối Sấy) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Svay Rieng vs Shanghai Shenhua" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" group-title="Bông lau TV",[19:15 15/10] Svay Rieng vs Shanghai Shenhua (Trốc Tru) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Svay Rieng vs Shanghai Shenhua" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" group-title="Bông lau TV",[19:15 15/10] Svay Rieng vs Shanghai Shenhua (Trốc Tru) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Svay Rieng vs Shanghai Shenhua" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" group-title="Bông lau TV",[19:15 15/10] Svay Rieng vs Shanghai Shenhua (Trốc Tru) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Tampines Rovers vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" group-title="Bông lau TV",[19:15 15/10] Tampines Rovers vs Machida Zelvia (Chuối Lá) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Tampines Rovers vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" group-title="Bông lau TV",[19:15 15/10] Tampines Rovers vs Machida Zelvia (Chuối Lá) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Tampines Rovers vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png" group-title="Bông lau TV",[19:15 15/10] Tampines Rovers vs Machida Zelvia (Chuối Lá) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Al-Faisaly FC vs Al Kholood" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" group-title="Bông lau TV",[20:40 15/10] Al-Faisaly FC vs Al Kholood (Chuối Chao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Al-Faisaly FC vs Al Kholood" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" group-title="Bông lau TV",[20:40 15/10] Al-Faisaly FC vs Al Kholood (Chuối Chao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Al-Faisaly FC vs Al Kholood" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png" group-title="Bông lau TV",[20:40 15/10] Al-Faisaly FC vs Al Kholood (Chuối Chao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Mardin BB vs Fatih Karagümrük" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125922_f9d0fbe8.png" group-title="Bông lau TV",[21:00 15/10] Mardin BB vs Fatih Karagümrük (Chuối To) [HD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Mardin BB vs Fatih Karagümrük" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125922_f9d0fbe8.png" group-title="Bông lau TV",[21:00 15/10] Mardin BB vs Fatih Karagümrük (Chuối To) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Al Khaleej Saihat vs Al-Fayha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134001_23e85ea3.png" group-title="Bông lau TV",[21:50 15/10] Al Khaleej Saihat vs Al-Fayha (Chuối Kem) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Al Khaleej Saihat vs Al-Fayha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134001_23e85ea3.png" group-title="Bông lau TV",[21:50 15/10] Al Khaleej Saihat vs Al-Fayha (Chuối Kem) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Al Khaleej Saihat vs Al-Fayha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134001_23e85ea3.png" group-title="Bông lau TV",[21:50 15/10] Al Khaleej Saihat vs Al-Fayha (Chuối Kem) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lech Poznan vs Bayer Leverkusen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134629_65fc6459.png" group-title="Bông lau TV",[23:45 15/10] Lech Poznan vs Bayer Leverkusen (Chuối Nhỏ) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lech Poznan vs Bayer Leverkusen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134629_65fc6459.png" group-title="Bông lau TV",[23:45 15/10] Lech Poznan vs Bayer Leverkusen (Chuối Nhỏ) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lech Poznan vs Bayer Leverkusen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134629_65fc6459.png" group-title="Bông lau TV",[23:45 15/10] Lech Poznan vs Bayer Leverkusen (Chuối Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lyon vs Crystal Palace" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" group-title="Bông lau TV",[23:45 15/10] Lyon vs Crystal Palace (Chuối Ngao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lyon vs Crystal Palace" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" group-title="Bông lau TV",[23:45 15/10] Lyon vs Crystal Palace (Chuối Ngao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lyon vs Crystal Palace" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png" group-title="Bông lau TV",[23:45 15/10] Lyon vs Crystal Palace (Chuối Ngao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Union St. Gilloise vs Real Sociedad" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125530_a8277fe1.png" group-title="Bông lau TV",[23:45 15/10] Union St. Gilloise vs Real Sociedad (Trốc Tru) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Union St. Gilloise vs Real Sociedad" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125530_a8277fe1.png" group-title="Bông lau TV",[23:45 15/10] Union St. Gilloise vs Real Sociedad (Trốc Tru) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Union St. Gilloise vs Real Sociedad" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125530_a8277fe1.png" group-title="Bông lau TV",[23:45 15/10] Union St. Gilloise vs Real Sociedad (Trốc Tru) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Red Bull Salzburg vs AC Milan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_5a000bd4.png" group-title="Bông lau TV",[23:45 15/10] Red Bull Salzburg vs AC Milan (Chuối Lá) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Red Bull Salzburg vs AC Milan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_5a000bd4.png" group-title="Bông lau TV",[23:45 15/10] Red Bull Salzburg vs AC Milan (Chuối Lá) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Red Bull Salzburg vs AC Milan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_5a000bd4.png" group-title="Bông lau TV",[23:45 15/10] Red Bull Salzburg vs AC Milan (Chuối Lá) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="CSKA Sofia vs Monaco" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_e5915ef5.png" group-title="Bông lau TV",[23:45 15/10] CSKA Sofia vs Monaco (Chuối Sấy) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="CSKA Sofia vs Monaco" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_e5915ef5.png" group-title="Bông lau TV",[23:45 15/10] CSKA Sofia vs Monaco (Chuối Sấy) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="CSKA Sofia vs Monaco" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_e5915ef5.png" group-title="Bông lau TV",[23:45 15/10] CSKA Sofia vs Monaco (Chuối Sấy) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130127_01b72c17.png" group-title="Sao Kê TV",21:00 08/10 ⚽ Al Ittihad vs Wadi Degla (Bút Chì) [SD]
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
