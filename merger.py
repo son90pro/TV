@@ -1,11 +1,11 @@
 import urllib.request
 import re
 
-# Danh sách 10 nguồn M3U của anh Sơn (Tivi Vip 1 đã đưa lên đầu)
+# Danh sách đầy đủ 12 nguồn M3U của anh Sơn
 SOURCES = [
     {
         "name": "Tivi Vip 1",
-        "url": "https://tv.vietanhtv.top/tivi/index.php?u=Son90_Pro&p=Vanson2505"
+        "url": "https://raw.githubusercontent.com/son90pro/TV/refs/heads/main/Tivi.m3u"
     },
     {
         "name": "Bia Ôm TV",
@@ -42,6 +42,14 @@ SOURCES = [
     {
         "name": "Sao Kê TV",
         "url": "https://raw.githubusercontent.com/son90pro/Sao-Ke--TV/refs/heads/main/saoketv.m3u"
+    },
+    {
+        "name": "Xôi Lạc ZTV",
+        "url": "https://raw.githubusercontent.com/son90pro/Xoi-LacZ/refs/heads/main/bong_a.m3u"
+    },
+    {
+        "name": "Giờ Vàng TV",
+        "url": "https://raw.githubusercontent.com/son90pro/Gio-VangTV/refs/heads/main/bong_a.m3u"
     }
 ]
 
@@ -90,4 +98,3 @@ def combine_m3u():
 
 if __name__ == "__main__":
     combine_m3u()
-    
