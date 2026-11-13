@@ -1,7 +1,8 @@
 import urllib.request
 import re
+from datetime import datetime, timezone, timedelta
 
-# Danh sách đầy đủ 12 nguồn M3U của anh Sơn
+# Danh sách 13 nguồn M3U của anh Sơn
 SOURCES = [
     {
         "name": "Tivi Vip 1",
@@ -50,6 +51,10 @@ SOURCES = [
     {
         "name": "Giờ Vàng TV",
         "url": "https://raw.githubusercontent.com/son90pro/Gio-VangTV/refs/heads/main/bong_a.m3u"
+    },
+    {
+        "name": "Ném Biên TV",
+        "url": "https://raw.githubusercontent.com/son90pro/NemBien-TV/refs/heads/main/playlist.m3u"
     }
 ]
 
@@ -57,6 +62,15 @@ OUTPUT_FILE = "TheThao_Full.m3u"
 
 def combine_m3u():
     output_lines = ["#EXTM3U\n"]
+    
+    # Lấy giờ Việt Nam (UTC+7) để hiển thị thời điểm update
+    vn_time = datetime.now(timezone(timedelta(hours=7)))
+    update_str = vn_time.strftime("Updated %d/%m %H:%M")
+    
+    # Chèn dòng hiển thị thời gian update lên vị trí đầu tiên của nhóm đầu tiên
+    output_lines.append(f'#EXTINF:-1 group-title="Tivi Vip 1" tvg-name="{update_str}", {update_str}\n')
+    output_lines.append('http://localhost/update\n')
+
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
 
     for src in SOURCES:
@@ -98,3 +112,4 @@ def combine_m3u():
 
 if __name__ == "__main__":
     combine_m3u()
+    
