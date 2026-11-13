@@ -5,7 +5,7 @@ from datetime import datetime, timezone, timedelta
 # Danh sách 13 nguồn M3U của anh Sơn
 SOURCES = [
     {
-        "name": "Tivi Vip 1",
+        "name": "Tivi Vip",
         "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv"
     },
     {
