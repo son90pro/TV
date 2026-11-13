@@ -67,8 +67,8 @@ def combine_m3u():
     vn_time = datetime.now(timezone(timedelta(hours=7)))
     update_str = vn_time.strftime("Updated %d/%m %H:%M")
     
-    # Chèn dòng hiển thị thời gian update lên vị trí đầu tiên của nhóm đầu tiên
-    output_lines.append(f'#EXTINF:-1 group-title="Tivi Vip 1" tvg-name="{update_str}", {update_str}\n')
+    # Tạo một TAB RIÊNG BIỆT nằm ở trên cùng cho phần thời gian update
+    output_lines.append(f'#EXTINF:-1 group-title="⏱️ Cập Nhật" tvg-name="{update_str}", {update_str}\n')
     output_lines.append('http://localhost/update\n')
 
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
