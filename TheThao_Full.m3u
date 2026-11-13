@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Tivi Vip 1" tvg-name="Updated 13/11 12:48", Updated 13/11 12:48
+#EXTINF:-1 group-title="⏱️ Cập Nhật" tvg-name="Updated 13/11 12:52", Updated 13/11 12:52
 http://localhost/update
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Tivi Vip 1" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
