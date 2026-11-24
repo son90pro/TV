@@ -6,7 +6,7 @@ from datetime import datetime, timezone, timedelta
 SOURCES = [
     {
         "name": "Tivi Vip",
-        "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv"
+        "url": "https://raw.githubusercontent.com/son90pro/Giai-Tri-VIP/refs/heads/main/truyen_hinh.m3u"
     },
     {
         "name": "Bia Ôm TV",
